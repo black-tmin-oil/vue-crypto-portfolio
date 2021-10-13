@@ -1,7 +1,7 @@
  # Vue Crypto Portfolio App
 
 тестовое задание в компанию Blockchain Solutions
-https://vue-crypto-portfolio.herokuapp.com
+- https://vue-crypto-portfolio.herokuapp.com
 
 ## Принцип работы
 Приложение состоит из двух страниц. Портфель и валютный конвертер. Оценка портфеля высчитывается при покупке/продажи монет.
