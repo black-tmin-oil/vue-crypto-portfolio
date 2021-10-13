@@ -1,4 +1,5 @@
  # Vue Crypto Portfolio App
+https://vue-crypto-portfolio.herokuapp.com/
 тестовое задание в компанию Blockchain Solutions
 
 ## Принцип работы
